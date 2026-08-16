@@ -7,8 +7,8 @@ An Excel function is a predefined formula that takes inputs, performs a calculat
 ## Common Excel functions for Data Analysis
 | Excel Function | What It Does                                                 | Role in Data Analysis                                                                                  
 | -------------- | ------------------------------------------------------------ | -------------------------------------------
-| **UPPER()**    | Converts text into uppercase.                                | Helps standardize text data, such as names,
-                                                                                so values have a consistent format.|  
+| **UPPER()**    | Converts text into uppercase.                                | Helps standardize text data, such as names|
+                                                                                 
                                                                   
 | **LOWER()**    | Converts text into lowercase.                                | Helps standardize inconsistent text and                                                                                 makes matching or comparing text values Easier.|
 
@@ -17,8 +17,6 @@ An Excel function is a predefined formula that takes inputs, performs a calculat
 
 | **SQRT()**     | Returns the square root of a number.                         | Useful for mathematical and statistical                                                                                    calculations during data analysis.                             
 
-
-| ---------------- | ----------------------------------- | --------------------- |
 | **SUBSTITUTE()** | Replaces specific text.             | Cleans text data.     |
 | **LEFT()**       | Extracts characters from the left.  | Extracts IDs/codes.   |
 | **RIGHT()**      | Extracts characters from the right. | Extracts IDs/codes.   |
