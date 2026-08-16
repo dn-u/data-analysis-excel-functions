@@ -1,19 +1,21 @@
-# data-analysis-excel-functions
+# Data-Analysis-Excel-functions
 A practical collection of Excel functions and formulas commonly used in data analysis, including data cleaning, lookup functions, conditional formulas, text functions, date &amp; time functions, aggregation, and analysis techniques.
 
 # FUNCTIONS IN EXCEL
 An Excel function is a predefined formula that takes inputs, performs a calculation or operation, and returns a result.
 
 ## Common Excel functions for Data Analysis
-| Excel Function | What It Does                                                 | Role in Data Analysis                                                                                  |
+| Excel Function | What It Does                                                 | Role in Data Analysis                                                                                  
 | -------------- | ------------------------------------------------------------ | -------------------------------------------
 | **UPPER()**    | Converts text into uppercase.                                | Helps standardize text data, such as names,
-                                                                  cities, or categories, so values have a consistent format. 
+                                                                                so values have a consistent format.|  
                                                                   
-| **LOWER()**    | Converts text into lowercase.                                | Helps standardize inconsistent text and                                                                             makes matching or comparing text values Easier.                                                                              
-| **POWER()**    | Raises a number to a specified power.                        | Useful for mathematical calculations.                       |
-| **MID()**      | Extracts a specific number of characters from a text string. | Useful for extracting IDs, codes, dates,                                                                            specific parts of text during data cleaning.            
-| **SQRT()**     | Returns the square root of a number.                         | Useful for mathematical and statistical calculations during data analysis.                             
+| **LOWER()**    | Converts text into lowercase.                                | Helps standardize inconsistent text and                                                                                 makes matching or comparing text values Easier.|
+
+| **POWER()**    | Raises a number to a specified power.                        | Useful for mathematical calculations. |                     
+| **MID()**      | Extracts a specific number of characters from a text string. | Useful for extracting IDs, codes, dates,                                                                                   specific parts of text during data cleaning.|
+
+| **SQRT()**     | Returns the square root of a number.                         | Useful for mathematical and statistical                                                                                    calculations during data analysis.                             
 
 
 | ---------------- | ----------------------------------- | --------------------- |
