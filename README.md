@@ -41,6 +41,7 @@ An Excel function is a predefined formula that takes inputs, performs a calculat
 | **MAXIFS()**        | Finds the largest value that meets conditions.          | Finds the highest value for a specific category.          |
 
 ## Visual. 
+- <a href="https://github.com/dn-u/data-analysis-excel-functions/blob/main/Screenshot%202026-08-17%20022706.png" >dataset</a>
 
 
 
@@ -63,6 +64,8 @@ An Excel function is a predefined formula that takes inputs, performs a calculat
 | **VLOOKUP()**  | Searches for a value vertically in a table and returns related data.     | Matches and retrieves data                                                                                                 from tables. |
 
 | **XLOOKUP()**  | Searches for a value and returns the matching result from another range. | Flexible data matching and                                                                                                  retrieval.   |
-## Visuals.
+## Visuals.   
+<a href="https://github.com/dn-u/data-analysis-excel-functions/blob/main/Screenshot%202026-08-17%20022706.png" >dataset</a>
+
 
 
