@@ -36,17 +36,19 @@ An Excel function is a predefined formula that takes inputs, performs a calculat
 | **AVERAGEIF()**     | Calculates the average of values that meet a condition. | Finds conditional averages, e.g. average                                                                                   sales by region. |
 
 | **SUMIF()*SUMIFS()** | Combines two conditional calculations.                  | Useful for more customized analysis.                      |
-| **COUNTIF()**       | Counts cells that meet a condition.                     | Counts specific categories or records.                    |
-| **MINIFS()**        | Finds the smallest value that meets conditions.         | Finds the lowest value for a specific category.           |
-| **MAXIFS()**        | Finds the largest value that meets conditions.          | Finds the highest value for a specific category.          |
+| **COUNTIF()**       | Counts cells that meet a condition.                     | Counts specific categories or records.     
+
+| **MINIFS()**        | Finds the smallest value that meets conditions.         | Finds the lowest value for a specific                                                                                      category.           |
+
+| **MAXIFS()**        | Finds the largest value that meets conditions.          | Finds the highest value for a specific                                                                                     category.          |
 
 ## Visual. 
 - <a href="https://github.com/dn-u/data-analysis-excel-functions/blob/main/Screenshot%202026-08-17%20022706.png" >dataset</a>
 
 
 
-
 ## Date & Time Functions
+
 | Excel Function | What It Does                              | Role in Data Analysis       |
 | -------------- | ----------------------------------------- | --------------------------- |
 | **TODAY()**    | Returns the current date.                 | Tracks dates and deadlines. |
@@ -59,13 +61,15 @@ An Excel function is a predefined formula that takes inputs, performs a calculat
 | **NOW()**      | Returns the current date and time.        | Tracks time-sensitive data. |
 
 ## Lookup Functions
-| Excel Function | What It Does                                                             | Role in Data Analysis                   |
-| -------------- | ------------------------------------------------------------------------ | --------------------------------------- |
+| Excel Function | What It Does                                                             | Role in Data Analysis          
+
+| -------------- | ------------------------------------------------------------------------ | -------------------------------
+
 | **VLOOKUP()**  | Searches for a value vertically in a table and returns related data.     | Matches and retrieves data                                                                                                 from tables. |
 
 | **XLOOKUP()**  | Searches for a value and returns the matching result from another range. | Flexible data matching and                                                                                                  retrieval.   |
 ## Visuals.   
-<a href="https://github.com/dn-u/data-analysis-excel-functions/blob/main/Screenshot%202026-08-17%20022706.png" >dataset</a>
+<a href="https://github.com/dn-u/data-analysis-excel-functions/blob/main/Screenshot%202026-08-17%20023034.png" >dataset</a>
 
 
 
