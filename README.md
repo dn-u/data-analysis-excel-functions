@@ -7,6 +7,7 @@ An Excel function is a predefined formula that takes inputs, performs a calculat
 ## Common Excel functions for Data Analysis
 | Excel Function | What It Does                                                 | Role in Data Analysis                                                                                  
 | -------------- | ------------------------------------------------------------ | -------------------------------------------
+
 | **UPPER()**    | Converts text into uppercase.                                | Helps standardize text data, such as names|
                                                                                  
                                                                   
@@ -28,7 +29,8 @@ An Excel function is a predefined formula that takes inputs, performs a calculat
 ## Conditional & Statistical Functions
 
 | Excel Function      | What It Does                                            | Role in Data Analysis                                     |
-| ------------------- | ------------------------------------------------------- | --------------------------------------------------------- |
+| ------------------- | ------------------------------------------------------- | -------------------------------------------
+
 | **SUMIF()**         | Adds values that meet one condition.                    | Calculates conditional totals, e.g. sales                                                                                  for one region. |
 
 | **AVERAGEIF()**     | Calculates the average of values that meet a condition. | Finds conditional averages, e.g. average                                                                                   sales by region. |
